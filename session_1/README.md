@@ -4,11 +4,9 @@
 **You need to install OpenAI gym into your laptop: pip install gym**
 
 
-**You are expected to modify new_agent.py (not agent.py)**
-
 ## A) Environment
 
-This assignement will be divide in two part:
+This assignement is divided in two part:
 
 #### 1. Value Iteration + Policy Iteration
 To practice Value / Policy iteration algorithm, we choose the
