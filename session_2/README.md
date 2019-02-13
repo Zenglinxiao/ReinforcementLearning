@@ -1,7 +1,6 @@
 # Bandits algorithms, Practical session 2
-In this second practical, you are asked to put what you just learnt
-about bandits to good use. You are provided with the `main.py` file,
-a bandits test bed. Use `python main.py -h` to check how to use this file.
+In this second practical, I'm in the context of multi-armed bandit. 
+The `main.py` file is provided, a bandits test bed. 
 
 I've implemented:
 * Epsilon-greedy bandit
