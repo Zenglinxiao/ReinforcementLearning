@@ -54,25 +54,3 @@ Gym environment (docs: https://gym.openai.com/docs/#environments)
 * Nb states: `self.mdp.env.nS`
 * Nb actions: `self.mdp.env.nA`
 * Transition function: `self.mdp.P`
-
-
-
-## C) How do I complete these files ?
-
-You are provided with the `main.py` file, a MDP test bed. Use `python main.py -h`
-to check how you are supposed to use this file. You will quickly notice that all
-subcommands return error messages.
-
-Fill in the `# TO IMPLEMENT` part of the
-code of `new_agent.py`. Remove the expection raising part (`raise NotImplementedError` ), and
-complete the three blank methods for each Agent.
-
-
-## D) How do I procede to be evaluated ?
-
-You will be noted on the implementation of the 3 agents (SARSA is a bonus) in the `new_agents.py` file.
-Bonus points will be given to clean and scalable code.
-(Think of your code complexity)
-
-You need to send `new_agent.py` and related dependancy to heri(at)lri(dot)fr
-before December, 9th 2018 at 23:59.
